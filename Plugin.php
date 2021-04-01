@@ -4,9 +4,10 @@
  *
  * @package ParsedownParser
  * @author Jimmy Ho
- * @version 0.1
+ * @version 0.2
  * @link https://blog.jimmyho.net/
  */
+
 class ParsedownParser_Plugin implements Typecho_Plugin_Interface
 {
     /**
